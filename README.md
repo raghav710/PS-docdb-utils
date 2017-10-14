@@ -5,3 +5,7 @@ The aim of this repo is to provide all docDB management activities in a single m
 This repo aims to solve that.
 
 As of now Document DB and collection creation are supported. Looking forward for volunteers to add new features!
+
+## Contributing
+Please read the [contributing guide](./CONTRIBUTING.md).
+
