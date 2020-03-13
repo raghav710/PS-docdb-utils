@@ -1,5 +1,7 @@
 # Document DB cmdlets for Powershell
 
+>> This repo is not actively maintained <<
+
 The aim of this repo is to provide all docDB management activities in a single module. As of now there is some support for docDB cmdlets and for some other tasks one has to go through some tiring [rest calls](https://russellyoung.net/2016/06/18/managing-documentdb-with-powershell/).
 
 This repo aims to solve that.
